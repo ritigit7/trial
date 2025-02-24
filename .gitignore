@@ -1,0 +1,10 @@
+.venv/bin
+.venv/etc
+.venv/lib
+.venv/lib64
+.venv/share
+pip.pyz
+pyvenv.cfg
+.vscode
+.venv/include/face_recognition/data
+.venv/include/face_recognition.zip
